@@ -79,7 +79,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
-theme: jekyll-theme-type
+#theme: jekyll-theme-type
 remote_theme: sejinvv\sejinvv.github.io
 exclude:
   - Gemfile

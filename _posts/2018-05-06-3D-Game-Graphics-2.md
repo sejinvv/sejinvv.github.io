@@ -140,8 +140,7 @@ $$ \left[ \begin{matrix} x+d\\ y+d\\ z+d\\ 1 \end{matrix} \right]$$
 > $$ \left[ \begin{matrix} 1& 0& 0\\ 0& 1& 0\\ 0& 0& 1 \end{matrix} \right] =
  \left[ \begin{matrix} u\\ v\\ n \end{matrix} \right](R^-1)  $$
    * 양변에 R을 곱해서 회전행렬 R을 얻는다.
-> $$ R = \left[ \begin{matrix} u\\ v\\ n \end{matrix} \right] $
-$
+> $$ R = \left[ \begin{matrix} u\\ v\\ n \end{matrix} \right] $$
 * 이제 이동 행렬 T를 동차좌표로 변환해서 행렬 R과 결합하면 된다. 순서는 이동후 회전을 해주어야 하니, 결합행렬은 RT이다.
 
 --------

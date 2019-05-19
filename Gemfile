@@ -1,6 +1,5 @@
-
-source "https://rubygems.org"
-  
-gem "jekyll","~> 3.8.1"
-gem "jekyll-theme-type"
-  
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate'

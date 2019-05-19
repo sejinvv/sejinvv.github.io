@@ -22,7 +22,7 @@ description: >
 # root of your server.
 baseurl: "" 
 #"/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://sejinvv.github.io" # the base hostname & protocol for your site
+url: "https://sejinvv.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
